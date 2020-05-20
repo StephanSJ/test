@@ -7,6 +7,7 @@
   3.3 [Commits](#own_workflow-commits)\
   3.4 [Eigenes remotes repository aktualisieren](#own_workflow-push_origin)
 4. [Pull request für remote upstream repository, master branch](#pullrequest_upstream)
+5. [Offene Fragen]()
 	
 
 ## 1. Vorbereitung (einmalig) <a name="Vorbereitung">
@@ -32,12 +33,13 @@ b) Unser Master repository soll mit dem original master repository gemerged werd
 ### <a name="own_workflow-branches"> 3. 2. Branches für Bearbeitungen erstellen </a>
 Wenn wir etwas verändern oder neu hinzufügen wollene rstellen wir ein branch in dem wir arbeiten. Die Bezeichnung sollte was darüber aussagen was wir machen. Wir können aus auch auf bestimmte Schlüsselwörter einigen z.B.
 
-text_xxx | Überarbeitung des Textes in einem Dokument
-
-code_xxx - Wir überarbeiten den Code bzgl: Effektivität, Lesbarkeit etc.
-comment_xxx - bessere Kommentierung des Codes
-feature_xxx - Erstellung eines neues features
-bugfix_xxx - Die Veränderung an einem Code
+| Prefix | Bedeutung |
+| --- | --- |
+| text_xxx | Überarbeitung des Textes in einem Dokument |
+| code_xxx | Wir überarbeiten den Code bzgl: Effektivität, Lesbarkeit etc. |
+| comment_xxx | bessere Kommentierung des Codes |
+| feature_xxx | Erstellung eines neues features |
+| bugfix_xxx | Die Veränderung an einem Code |
 
 ### <a name="own_workflow-commits"> 3.3 Commits </a>
 Wir versuchen unsere commits thematisch zu ordnen und commiten nicht alles was wir bearbeitet haben aufeinmal.
@@ -55,7 +57,7 @@ Wenn wir eine Entwicklung, Bearbeitung abgeschlossen haben gehen wir in folgende
 4. Wir erstellen einen Pull request und kommentieren diesen im remote upstream repository
 5. Eine Person muss den Code reviewen erst dann kann der pullrequest erlaubt werden
 
-## Offene Fragen ohne Vorschlag
+## <a name="Fragen"> Offene Fragen ohne Vorschlag </a>
 * Wie gehen wir mit pullrequests und branches des owners um?
 
 
