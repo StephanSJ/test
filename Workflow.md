@@ -1,11 +1,3 @@
----
-title: "Workflow"
-author: "Stephan"
-date: "20 5 2020"
-output: github_document
----
-
-
 # Unser Workflow
 1. [Vorbereitung](#Vorbereitung) 
 2. Branches im remote upstream repository
