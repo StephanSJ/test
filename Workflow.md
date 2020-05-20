@@ -3,7 +3,7 @@
 1. [Vorbereitung](#Vorbereitung) 
 2. Branches im remote upstream repository
 3. [Workflow für die eigene Arbeit](#own_workflow)\
-	3.1 [Anfang der Sitzung](#own_workflow:start)\
+	3.1 [Anfang der Sitzung](#own_workflow-start)\
 	3.2 [Branches für Bearbeitungen erstellen](#own_workflow:branches)\
 	3.3 [Commits](#own_workflow:commits)\
 	3.4 [Eigenes remotes repository aktualisieren](#own_workflow:push_origin)
@@ -22,7 +22,7 @@ Der Masterstrang spiegelt dann alles wieder was gerade läuft. Der Developmentst
 https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
 
 ## <a name="own_workflow"> 3. Workflow für die eigene Arbeit </a>
-### <a name="own_workflow:start"> 3.1  Anfang der Sitzung </a>
+### <a name="own_workflow-start"> 3.1  Anfang der Sitzung </a>
 Bevor wir an unseren eigenen Arbeitspakten arbeiten holen wir uns immer erst die aktuelle Version aus dem Originalrepository. Dafür gibt es zwei Möglichkeiten.
 
 a) Unser Master repository soll durch das original master repository ersetzt werden.
