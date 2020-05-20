@@ -32,7 +32,7 @@ b) Unser Master repository soll mit dem original master repository gemerged werd
 ### <a name="own_workflow-branches"> 3. 2. Branches für Bearbeitungen erstellen </a>
 Wenn wir etwas verändern oder neu hinzufügen wollene rstellen wir ein branch in dem wir arbeiten. Die Bezeichnung sollte was darüber aussagen was wir machen. Wir können aus auch auf bestimmte Schlüsselwörter einigen z.B.
 
-|text_xxx | Überarbeitung des Textes in einem Dokument|
+| text_xxx | Überarbeitung des Textes in einem Dokument |
 
 code_xxx - Wir überarbeiten den Code bzgl: Effektivität, Lesbarkeit etc.
 comment_xxx - bessere Kommentierung des Codes
