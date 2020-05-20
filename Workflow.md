@@ -6,7 +6,7 @@
 	3.1 [Anfang der Sitzung](#own_workflow:start)\
 	3.2 [Branches für Bearbeitungen erstellen](#own_workflow:branches)\
 	3.3 [Commits](#own_workflow:commits)\
-	3.4 [Eigenes remotes repository aktualisieren](#own_workflow:push_origin)\
+	3.4 [Eigenes remotes repository aktualisieren](#own_workflow:push_origin)
 4. [Pull request für remote upstream repository, master branch](pullrequest_upstream)
 	
 
